@@ -130,3 +130,5 @@ dmypy.json
 
 *.nc
 goes_data
+tobac-dev-3D-PBC-support
+radar_data
